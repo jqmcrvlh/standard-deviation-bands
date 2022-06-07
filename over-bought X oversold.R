@@ -1,11 +1,3 @@
-## plotOBOS -- displaying overbough/oversold as eg in Bespoke's plots
-##
-## Copyright (C) 2010 - 2017  Dirk Eddelbuettel
-##
-## This is free software: you can redistribute it and/or modify it
-## under the terms of the GNU General Public License as published by
-## the Free Software Foundation, either version 2 of the License, or
-## (at your option) any later version.
 
 suppressMessages(library(quantmod))     # for getSymbols(), brings in xts too
 suppressMessages(library(TTR))          # for various moving averages
