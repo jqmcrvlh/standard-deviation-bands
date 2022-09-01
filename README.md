@@ -1,2 +1,2 @@
 # standard-deviation-bands
-The code is a version of Dirk Eddelbuettel code.  It uses a few standard finance packages for R.
+The code is a version in R using a few standard finance packages for Finacial Markets.
